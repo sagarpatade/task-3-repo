@@ -108,5 +108,4 @@ Successfully provisioned and deployed an Nginx container using Terraform as Infr
 
 ---
 
-Let me know if you want this saved as a `.md` file for download.
 ```
