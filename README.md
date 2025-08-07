@@ -1,3 +1,4 @@
+<img width="1919" height="990" alt="Screenshot 2025-08-07 165749" src="https://github.com/user-attachments/assets/737b0c01-3624-4769-a3dc-b68c94de9368" />
 Here's a basic `README.md` file for **Task 3 – Infrastructure as Code (IaC) with Terraform** using Docker. It explains the objective, setup, steps, and verification.
 
 ---
